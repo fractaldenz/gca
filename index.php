@@ -9,6 +9,8 @@
  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.js"></script>
 </head>
 <body <?php body_class(); ?>>
-    
+    <div class="container">
+        content..
+    </div>
 </body>
 </html>
